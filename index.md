@@ -24,6 +24,25 @@
 
 &nbsp;
 
+#### ■游戏截图
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.png" width="50%" height="50%">
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE2.png" width="50%" height="50%">
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE3.png" width="50%" height="50%">
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE4.png" width="50%" height="50%">
+
+&nbsp;
 
 #### ■下载地址
 
@@ -57,26 +76,6 @@
 ▲注意：
 
 大部分物品是无法自动使用的，请面朝着想要的目标，打开菜单栏使用物品。
-
-&nbsp;
-
-#### ■游戏截图
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.png" width="50%" height="50%">
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE2.png" width="50%" height="50%">
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE3.png" width="50%" height="50%">
-
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE4.png" width="50%" height="50%">
 
 &nbsp;
 
