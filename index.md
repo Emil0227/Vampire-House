@@ -21,18 +21,47 @@
 &nbsp;
 
 如果在通关之后，有兴趣根据游戏中的线索，额外去了解主人公「九叔」的现实原型的话，作者会非常开心。
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+&nbsp;
 
-- Bulleted
-- List
+#### ■游戏时长
 
-1. Numbered
-2. List
+约60-90分钟
+
+&nbsp;
+
+#### ■结局数
+2个
+
+&nbsp;
+
+#### ■操作方法
+-移动/选择
+【方向键】或【小键盘2、4、6、8】
+
+&nbsp;
+
+-确定/互动/调查
+【空格键】或【回车键】或【Z】
+
+&nbsp;
+
+-菜单栏
+【esc】或【X】
+
+&nbsp;
+
+-鼠标移至窗口边缘拖动，可调整游戏界面大小
+
+&nbsp;
+
+▲注意
+大部分物品是无法自动使用的，请面朝着想要的目标，打开菜单栏使用物品。
+
+
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
