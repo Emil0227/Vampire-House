@@ -1,6 +1,6 @@
 ## 灵幻凶宅：契约
 
-制作： [艾米爾的記憶](https://emil0227.github.io/)
+作者： [艾米爾的記憶](https://emil0227.github.io/)
 
 &nbsp;
 
