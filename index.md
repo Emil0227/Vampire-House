@@ -28,10 +28,10 @@
 
 &nbsp;
 
-<center class = "half">
+<figure class = "half">
 <img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.png"  width="50%" height="50%" align = left>
 <img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE2.png" width="50%" height="50%" align = right>
-</center>
+</figure>
 
 &nbsp;
 
@@ -154,8 +154,6 @@
 **五、作者 艾米爾的記憶 拥有对本规约的最终解释权，且有权随时对本规约内容进行修改。**
 
 &nbsp;
-
-谢谢！
 
 &nbsp;
 
