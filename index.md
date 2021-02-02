@@ -68,7 +68,7 @@
 
 &nbsp;
 
-![SS1](https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.png)
+
 
 &nbsp;
 
