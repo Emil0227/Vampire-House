@@ -4,7 +4,7 @@
 
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E4%BA%BA%E7%89%A9%E6%B1%87%E6%80%BB%20%E8%87%B4%E8%B0%A2.png">
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E4%BA%BA%E7%89%A9%E6%B1%87%E6%80%BB%20%E8%87%B4%E8%B0%A2.png" width="80%" height="80%">
 
 #### ■游戏类型
 
@@ -31,7 +31,7 @@
 &nbsp;
 
 <figure class = "third">
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.png"  width="45%" height="45%"><img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE2.png" width="45%" height="45%"/>
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.png"  width="45%" height="45%"/><img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE2.png" width="45%" height="45%"/>
 </figure>
 
 <figure class = "third">
