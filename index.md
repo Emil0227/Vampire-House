@@ -96,15 +96,42 @@
 
 × 禁止：未经授权将《灵幻凶宅：契约》的素材盗用至其他游戏！
 
-[Link](url) and ![Image](src)
-```
+&nbsp;
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**三、游戏实况与二次创作规约。**
 
-### Jekyll Themes
+× 禁止以重伤本游戏及作者为目的的实况与二次创作。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Emil0227/VampireHouse.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+× 禁止对该游戏进行违反善良风俗和性相关的实况与二次创作。
 
-### Support or Contact
+× 禁止通过实况、攻略或二次创作取得金钱或报酬等获得利益的行为。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+■ 只要不违反该规约，进行实况、攻略与二次创作是没有问题的。
+
+■ 若无法遵守规约，最坏的情况会禁止所有的二次创作并停止公开游戏。
+
+&nbsp;
+
+**四、本游戏为致敬向作品，故禁止任何形式和任何理由的商业使用。**
+
+&nbsp;
+
+谢谢！
+
+&nbsp;
+
+***********************
+
+&nbsp;
+
+■■■■■■■■■■  注意事项  ■■■■■■■■■■
+本游戏含有少量恐怖、血腥元素，请根据自身情况进行游玩。
+
+若在游玩时身体有任何不适，作者不承担任何责任。
+
+&nbsp;
+
+&nbsp;
+
+2021.02.02 更新
+
