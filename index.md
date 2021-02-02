@@ -1,13 +1,24 @@
-## Welcome to GitHub Pages
+## 灵幻凶宅：契约
 
-You can use the [editor on GitHub](https://github.com/Emil0227/VampireHouse.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+制作： [艾米爾的記憶](https://emil0227.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+&nbsp;
 
-### Markdown
+### ■游戏类型
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+探索解谜|恐怖|温馨
 
+### ■游戏简介
+
+游戏以香港湾仔区一间停业的夜总会为舞台，讲述了发生在1997年前后的都市传说。
+
+虽然这是一个与现实世界平行的、主题温馨的故事，
+
+但也会有许多解谜要素，以及偶尔震你一下的演出。
+
+&nbsp;
+
+如果在通关之后，有兴趣根据游戏中的线索，额外去了解主人公「九叔」的现实原型的话，作者会非常开心。
 ```markdown
 Syntax highlighted code block
 
