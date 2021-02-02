@@ -29,7 +29,7 @@
 &nbsp;
 
 <figure class="third">
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.png"  width="50%" height="50%"><img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE2.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.png"  width="50%" height="50%" align = left><img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE2.png" width="50%" height="50%" align = right>
 </figure>
 
 &nbsp;
