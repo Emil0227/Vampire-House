@@ -4,8 +4,7 @@
 
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E4%BA%BA%E7%89%A9%E6%B1%87%E6%80%BB%20%E8%87%B4%E8%B0%A2.png
-">
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E4%BA%BA%E7%89%A9%E6%B1%87%E6%80%BB%20%E8%87%B4%E8%B0%A2.png">
 
 #### ■游戏类型
 
