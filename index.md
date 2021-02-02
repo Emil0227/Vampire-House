@@ -2,9 +2,7 @@
 
 作者： [艾米爾的記憶](https://emil0227.github.io/)
 
-&nbsp;
-
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E4%BA%BA%E7%89%A9%E6%B1%87%E6%80%BB%20%E8%87%B4%E8%B0%A2.png" width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E4%BA%BA%E7%89%A9%E6%B1%87%E6%80%BB%20%E8%87%B4%E8%B0%A2.png" width="45%" height="45%">
 
 #### ■游戏类型
 
