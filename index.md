@@ -27,6 +27,9 @@
 
 #### ■下载地址
 
+<https://emil0227.itch.io/vampire-house/download/9l1ZM_6KM4byf9k6Ix1x_bjFh2aB5AbIommW5Lxh>
+页面密码：5355
+
 &nbsp;
 
 #### ■游戏时长
@@ -76,7 +79,7 @@
 
 **一、禁止对《灵幻凶宅：契约》游戏本体进行擅自转载、二次发布。**
 
-■ 介绍本游戏并没有问题，但请标明中文官网：https://emil0227.github.io/VampireHouse
+■ 介绍本游戏并没有问题，但请标明中文官网：<https://emil0227.github.io/VampireHouse>
 
 若在各种论坛和问答网站上遇到「求灵幻凶宅下载」的人，请回答该官网网址。
 
