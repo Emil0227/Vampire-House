@@ -6,7 +6,7 @@
 
 #### ■游戏类型
 
-探索解谜/恐怖/温馨
+探索/解谜/恐怖
 
 &nbsp;
 
@@ -20,11 +20,17 @@
 
 &nbsp;
 
-如果在通关之后，有兴趣根据游戏中的线索，额外去了解主人公「九叔」的现实原型的话，作者会非常开心。
+如果在通关之后，有兴趣根据游戏中的线索，额外去了解「九叔」这个人物的现实原型的话，作者会非常开心。
 
 &nbsp;
 
 #### ■游戏截图
+
+&nbsp;
+
+<center class = "half">
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE1.png"  width="50%" height="50%" align = left><img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE2.png" width="50%" height="50%" align = right>
+</center>
 
 &nbsp;
 
@@ -140,6 +146,11 @@
 &nbsp;
 
 **四、本游戏为致敬向作品，故禁止任何形式和任何理由的商业使用。**
+
+&nbsp;
+
+
+**五、作者 艾米爾的記憶 拥有对本规约的最终解释权，且有权随时对本规约内容进行修改。**
 
 &nbsp;
 
