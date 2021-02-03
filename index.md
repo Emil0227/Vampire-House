@@ -79,9 +79,7 @@
 
 ◈「破损的旧胶片」是对于记忆有帮助的物品，如果收集了全部的话……
 
-◈这是一款解谜游戏，建意不在万不得已的情况下，不要使用 [攻略](https://emil0227.github.io/VampireHouseWalkthrough/)
-
-如果实在因为卡关需要，请参考攻略提示。
+◈这是一款解谜游戏，建意不在万不得已的情况下，不要使用 [攻略](https://emil0227.github.io/VampireHouseWalkthrough/)。如果实在因为卡关需要，请参考攻略提示。
 
 &nbsp;
 
