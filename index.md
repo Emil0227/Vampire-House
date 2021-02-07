@@ -59,12 +59,20 @@
 
 #### ■操作指南
 
+键盘操作：
+
 |移动/选择       | *【方向键】或【小键盘2、4、6、8】* |
 |确定/互动/调查  | *【空格键】或【回车键】或【Z】*    |
 |冲刺            | *【Shift】*                        |
 |菜单栏          | *【esc】或【X】*                   |
 
 *鼠标移至窗口边缘拖动，可调整游戏界面大小*
+
+&nbsp;
+
+手柄操作：
+
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%89%8B%E6%9F%84.png" width="55%" height="55%">
 
 &nbsp;
 
