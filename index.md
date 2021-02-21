@@ -44,7 +44,7 @@
 
 #### ■下载地址
 
-window版（推荐）：<https://emil0227.itch.io/vampire-house>
+Windows版（推荐）：<https://emil0227.itch.io/vampire-house>
 
 &nbsp;
 
