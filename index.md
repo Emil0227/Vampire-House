@@ -20,7 +20,7 @@
 
 这是一个有关生命、存在和记忆的故事。
 
-虽然主题温馨，但也会有许多解谜要素，以及偶尔震你一下的演出。
+游戏中会有许多解谜要素，以及偶尔震你一下的演出。
 
 &nbsp;
 
@@ -44,9 +44,7 @@
 
 #### ■下载地址
 
-<https://emil0227.itch.io/vampire-house/download/9l1ZM_6KM4byf9k6Ix1x_bjFh2aB5AbIommW5Lxh>
-
-页面密码：5355
+window版（推荐）：<https://emil0227.itch.io/vampire-house>
 
 &nbsp;
 
@@ -183,5 +181,5 @@
 
 &nbsp;
 
-2021.02.02 更新
+2021.02.2 更新
 
