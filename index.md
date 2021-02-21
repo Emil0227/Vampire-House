@@ -46,6 +46,8 @@
 
 Windows版（推荐）：<https://emil0227.itch.io/vampire-house>
 
+html版（在线资源加载会严重降低游戏体验，如非必要不建议使用）：<https://emil0227.github.io/VampireHouse-Web-Push-1.0/>
+
 &nbsp;
 
 #### ■游戏时长
