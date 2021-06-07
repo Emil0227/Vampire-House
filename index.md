@@ -52,9 +52,7 @@
 
 #### ■下载地址
 
-Windows版（推荐）：<https://emil0227.itch.io/vampire-house>
-
-html版（在线资源加载可能会降低游戏体验）：<https://emil0227.github.io/VampireHouse-Web-Push-1.0/>
+Windows版：<https://emil0227.itch.io/vampire-house>
 
 &nbsp;
 
