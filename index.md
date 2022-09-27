@@ -1,6 +1,6 @@
 ## 灵幻凶宅：契约
 
-作者： [艾米爾的記憶](https://emil0227.github.io/)
+作者： [8KB GAMES](https://emil0227.github.io/)
 
 <img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E4%BA%BA%E7%89%A9%E6%B1%87%E6%80%BB%20%E8%87%B4%E8%B0%A2.png" width="45%" height="45%">
 
@@ -169,7 +169,7 @@ Windows版：<https://emil0227.itch.io/vampire-house>
 &nbsp;
 
 
-**五、作者 艾米爾的記憶 拥有对本规约的最终解释权，且有权随时对本规约内容进行修改。**
+**五、作者 8KB GAMES 拥有对本规约的最终解释权，且有权随时对本规约内容进行修改。**
 
 &nbsp;
 
