@@ -144,11 +144,11 @@ If you encounter people asking for the download link of "Vampire House: The Cove
 
 &nbsp;
 
-**3. This game is a tribute to other works; therefore, any form of commercial use for any reason is prohibited.**
+**3. This game is a tribute to other works; therefore, any form of commercial use for any reason is prohibited**
 
 &nbsp;
 
-**4. The author, 8KB GAMES, has the ultimate interpretative authority over this agreement and retains the right to modify its content at any time.**
+**4. The author, 8KB GAMES, has the ultimate interpretative authority over this agreement and retains the right to modify its content at any time**
 
 &nbsp;
 
