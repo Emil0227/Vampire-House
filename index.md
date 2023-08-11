@@ -74,7 +74,7 @@ Keyboard Controls:：
 |Sprint                        | *【Shift】*                       |
 |Menu bar/Cancel               | *【esc】or【X】*                  |
 
-*Drag the window edge of the game to adjust its size*
+*Drag the edge of the game window to adjust its size*
 
 &nbsp;
 
