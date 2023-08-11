@@ -22,8 +22,6 @@ This is a tale of life, existence and memories.
 
 While the theme is heartwarming, there are numerous puzzle-solving tasks and jump scare moments.
 
-&nbsp;
-
 If after completion, you're interested in uncovering the real-life inspiration behind the character "Gao Suk" based on in-game clues, the author would be delighted.
 
 &nbsp;
