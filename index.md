@@ -80,7 +80,7 @@ Keyboard Controls:：
 
 手柄操作：
 
-<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%89%8B%E6%9F%84.png" width="90%" height="90%">
+<img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%89%8B%E6%9F%841.png" width="90%" height="90%">
 
 &nbsp;
 
