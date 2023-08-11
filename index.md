@@ -78,27 +78,27 @@ Keyboard Controls:：
 
 &nbsp;
 
-手柄操作：
+Gamepad Controls：
 
 <img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E6%89%8B%E6%9F%841.png" width="90%" height="90%">
 
 &nbsp;
 
-注意：
+Note:
 
-◈本游戏戴上耳机效果更佳。
+◈It is recommended to play the game with headphones for a better experience;
 
-◈请在运行游戏前先对文件进行解压。
+◈Please unzip the exe file before running the game;
 
-◈大部分物品是无法自动使用的，请面朝着想要的目标，打开菜单栏使用物品。
+◈Most items cannot be used automatically. Please face towards the target and open the menu bar to use items;
 
-◈尽量多地调查所有能调查的物体，会帮助你更快地解开每一关谜题。
+◈Investigate as many objects as possible, as it will help you solve each puzzle more quickly;
 
-◈尽可能地多存档，游戏中设有死亡点。
+◈Save your progression frequently as there are checkpoints in the game;
 
-◈「破损的旧胶片」是对于记忆有帮助的物品，如果收集了全部的话……
+◈The "Damaged Old Film" is a helpful item for memories. If you collect all of them...
 
-◈这是一款解谜游戏，建议不在万不得已的情况下，不要使用 [攻略](https://emil0227.github.io/VampireHouseWalkthrough/)。如果实在因为卡关需要，请参考攻略提示。
+◈This is a puzzle-solving game. It is recommended not to use [walkthrough](https://emil0227.github.io/VampireHouseWalkthrough/) unless absolutely necessary.
 
 &nbsp;
 
@@ -112,62 +112,43 @@ Keyboard Controls:：
 
 &nbsp;
 
-#### <font color='red'> ★版权声明★ </font>
+#### <font color='red'> ★Copyright Statement★ </font>
 
 &nbsp;
 
-虽然本游戏是免费的，但作者并未放弃著作权。
+While this game is free, the author retains the rights to the work. 
 
-请遵守作者的规约：
-
-&nbsp;
-
-**一、禁止对《灵幻凶宅：契约》游戏本体进行擅自转载、二次发布。**
-
-■ 介绍本游戏并没有问题，但请标明中文官网：<https://emil0227.github.io/VampireHouse>
-
-若在各种论坛和问答网站上遇到「求灵幻凶宅下载」的人，请回答该官网网址。
-
-× 禁止：以任何形式贩卖本游戏！
-
-× 禁止：未经授权的翻译和发布游戏！
-
-× 禁止：将《灵幻凶宅：契约》本体传到网络论坛上，借此赚取论坛币！
-
-× 禁止：任何游戏网站将《灵幻凶宅：契约》本体收入网站下载资源，借此宣传自己的网站！
+Please follow these guidelines:
 
 &nbsp;
 
-**二、禁止对《灵幻凶宅：契约》中出现的任何素材（图片和音乐）以及工程文件进行二次发布、转载和使用。**
+**1. Unauthorized reposting or secondary distribution of the game "Vampire House: The Covenant" is prohibited**
 
-× 禁止：个人或侵权下载网站、游戏论坛等对《灵幻凶宅：契约》中的资料进行改变、使用和未经授权擅自发布！
+√ Introducing the game is allowed, but please provide the official website: <https://emil0227.github.io/VampireHouse>
 
-× 禁止：未经授权将《灵幻凶宅：契约》的素材盗用至其他游戏！
+If you encounter people asking for the download link of "Vampire House: The Covenant" on various forums and Q&A websites, please direct them to the official website.
 
-■  对于游戏中用到的免费BGM和SE，若已得到各著作权者的许可，则可以使用。
+× Selling the game in any form is prohibited.
 
-&nbsp;
+× Uploading the game to forums for forum coins is prohibited.
 
-**三、游戏实况与二次创作规约。**
-
-× 禁止以中伤本游戏及作者为目的的实况与二次创作。
-
-× 禁止对该游戏进行违反善良风俗和性相关的实况与二次创作。
-
-× 禁止通过实况、攻略或二次创作取得金钱或报酬等获得利益的行为。
-
-■ 只要不违反该规约，进行实况、攻略与二次创作是没有问题的。
-
-■ 若无法遵守规约，最坏的情况会禁止所有的二次创作并停止公开游戏。
+× Game websites cannot include "Vampire House: The Covenant" for their own promotional purposes.
 
 &nbsp;
 
-**四、本游戏为致敬向作品，故禁止任何形式和任何理由的商业使用。**
+**2. Secondary distribution, reposting, and use of materials (images, music, and project files) from "Vampire House: The Covenant" is prohibited**
+
+√ Free BGM and SE used in the game can be used if permission is granted by copyright holders.
+
+× Unauthorized changes, use, and distribution of "Vampire House: The Covenant" materials are prohibited.
 
 &nbsp;
 
+**3. This game is a tribute to other works; therefore, any form of commercial use for any reason is prohibited.**
 
-**五、作者 8KB GAMES 拥有对本规约的最终解释权，且有权随时对本规约内容进行修改。**
+&nbsp;
+
+**4. The author, 8KB GAMES, has the ultimate interpretative authority over this agreement and retains the right to modify its content at any time.**
 
 &nbsp;
 
@@ -177,15 +158,15 @@ Keyboard Controls:：
 
 &nbsp;
 
-*注意事项*
+*Disclaimer*
 
-*本游戏含有少量恐怖、血腥元素，请根据自身情况进行游玩。*
+*This game contains mild horror and bloody elements. Please play according to your personal comfort level.*
 
-*若在游玩时身体有任何不适，作者不承担任何责任。*
-
-&nbsp;
+*The author does not assume any responsibility for any discomfort experienced during gameplay.*
 
 &nbsp;
 
-2021.02.22 更新
+&nbsp;
+
+Updated on August 12, 2023
 
