@@ -1,34 +1,34 @@
-## 灵幻凶宅：契约
+## Vampire House: The Covenant
 
-作者： [8KB GAMES](https://emil0227.github.io/)
+Author: [8KB GAMES](https://emil0227.github.io/)
 
 <img src="https://raw.githubusercontent.com/Emil0227/VampireHouse/master/%E4%BA%BA%E7%89%A9%E6%B1%87%E6%80%BB%20%E8%87%B4%E8%B0%A2.png" width="45%" height="45%">
 
-#### ■游戏类型
+#### ■Genre
 
-探索/解谜/恐怖
-
-&nbsp;
-
-#### ■游戏简介
-
-以香港湾仔区一间停业的夜总会为舞台，讲述了一个时间跨度在1997和1998年之间的故事。
-
-在复仇计划潦草收尾的最后，主人公对于始终帮助自己的那个人，却怎么也记不起来了。
-
-是契约的缘故吗？
-
-这是一个有关生命、存在和记忆的故事。
-
-游戏中会有许多解谜要素，以及偶尔震你一下的演出。
+Puzzle / Adventure / Psychological-horror / Top-down 2D rpg
 
 &nbsp;
 
-如果在通关之后，有兴趣根据游戏中的线索，额外去了解「九叔」这个人物的现实原型的话，作者会非常开心。
+#### ■Synopsis
+
+The game sets the stage in a closed nightclub in Wan Chai district, Hong Kong, unfolding a story between 1997 and 1998.
+
+As the final pieces of a revenge plan come together, the protagonist cannot remember the person who always helped her.
+
+Is it because of the covenant?
+
+This is a tale of life, existence and memories.
+
+While the theme is heartwarming, there are numerous puzzle-solving tasks and jump scare moments.
 
 &nbsp;
 
-#### ■游戏截图
+If after completion, you're interested in uncovering the real-life inspiration behind the character "Gao Suk" based on in-game clues, the author would be delighted.
+
+&nbsp;
+
+#### ■Screenshots
 
 &nbsp;
 
@@ -50,33 +50,33 @@
 
 &nbsp;
 
-#### ■下载地址
+#### ■Download
 
-Windows版：<https://emil0227.itch.io/vampire-house>
-
-&nbsp;
-
-#### ■游戏时长
-
-约60-90分钟
+Play on Windows: <https://emil0227.itch.io/vampire-house>
 
 &nbsp;
 
-#### ■结局数
-2个
+#### ■Gameplay Duration
+
+60-90 minutes
 
 &nbsp;
 
-#### ■操作指南
+#### ■Number of Endings
+2 endings
 
-键盘操作：
+&nbsp;
 
-|移动/选择       | *【方向键】或【小键盘2、4、6、8】* |
-|确定/互动/调查  | *【空格键】或【回车键】或【Z】*    |
-|冲刺            | *【Shift】*                        |
-|菜单栏          | *【esc】或【X】*                   |
+#### ■Controls Guide
 
-*鼠标移至窗口边缘拖动，可调整游戏界面大小*
+Keyboard Controls:：
+
+|Move/Select                   | *【Arrow keys】or【2, 4, 6, 8】*  |
+|Confirm/Interact/Investigate  | *【Space bar】or【Enter】or【Z】* |
+|Sprint                        | *【Shift】*                       |
+|Menu bar/Cancel               | *【esc】or【X】*                  |
+
+*Drag the window edge of the game to adjust its size*
 
 &nbsp;
 
